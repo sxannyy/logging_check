@@ -1,0 +1,159 @@
+INFO \ 2024-05-27 at 10:41:31 \ user_service.py -> line 9 \ Сервер был успешно запущен \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:44 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:44 \ subscriber.py -> line 26 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:44 \ subscriber.py -> line 39 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:45 \ subscriber.py -> line 42 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:45 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:49 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:49 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:49 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:49 \ publisher.py -> line 27 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:50 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:41:55 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:41:55 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:41:59 \ publisher.py -> line 35 \ У автора устали писать руки... Он устал, он мухожук... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:00 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:00 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:05 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:05 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:10 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:10 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:15 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:15 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:20 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:20 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:25 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:25 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:30 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:30 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:35 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:35 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:40 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:40 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:45 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:45 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:50 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:50 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:42:55 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:42:55 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:43:00 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:43:00 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:43:05 \ subscriber.py -> line 53 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:41 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:41 \ subscriber.py -> line 26 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:41 \ subscriber.py -> line 39 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:42 \ subscriber.py -> line 42 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:42 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:44 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:44 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:44 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:44 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:47 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:52 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:44:52 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:44:54 \ publisher.py -> line 36 \ У автора устали писать руки... Он устал, он мухожук... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:44:57 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:44:57 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:45:02 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:45:02 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:45:06 \ subscriber.py -> line 53 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:29 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:29 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:29 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ subscriber.py -> line 26 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ subscriber.py -> line 39 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ subscriber.py -> line 42 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:32 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:37 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:42 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:46:42 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:46:47 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:46:47 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:46:50 \ subscriber.py -> line 53 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:51:39 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:51:39 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:51:39 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:05 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:05 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:05 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:05 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:13 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:13 \ subscriber.py -> line 26 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:13 \ subscriber.py -> line 39 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:13 \ subscriber.py -> line 42 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:13 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:18 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:52:23 \ subscriber.py -> line 46 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:52:23 \ subscriber.py -> line 48 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:52:28 \ subscriber.py -> line 53 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:52:30 \ publisher.py -> line 36 \ У автора устали писать руки... Он устал, он мухожук... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:09 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:09 \ subscriber.py -> line 25 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:09 \ subscriber.py -> line 38 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:13 \ subscriber.py -> line 41 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:13 \ subscriber.py -> line 45 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:14 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:14 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:14 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:15 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:18 \ subscriber.py -> line 45 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:23 \ subscriber.py -> line 45 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:53:23 \ subscriber.py -> line 47 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:28 \ subscriber.py -> line 45 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:53:28 \ subscriber.py -> line 47 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:53:33 \ subscriber.py -> line 45 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:53:33 \ subscriber.py -> line 47 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:53:38 \ subscriber.py -> line 52 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:53:40 \ publisher.py -> line 36 \ У автора устали писать руки... Он устал, он мухожук... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:20 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:20 \ subscriber.py -> line 23 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:20 \ subscriber.py -> line 36 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:20 \ subscriber.py -> line 39 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:20 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:21 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:21 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:21 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:21 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:25 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:30 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:56:30 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:35 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:56:35 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+CRITICAL \ 2024-05-27 at 10:56:37 \ subscriber.py -> line 50 \ Запись была остановлена пользователем. Пользователю тоже стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:53 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:53 \ subscriber.py -> line 23 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:53 \ subscriber.py -> line 36 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:53 \ subscriber.py -> line 39 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:56:53 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:01 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:01 \ subscriber.py -> line 23 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:01 \ subscriber.py -> line 36 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:16 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:16 \ subscriber.py -> line 23 \ Уникальный токен для пользователя выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:16 \ subscriber.py -> line 36 \ Подключение к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:16 \ subscriber.py -> line 39 \ Подписка была оформлена \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:16 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:21 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:26 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:26 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:29 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:29 \ publisher.py -> line 13 \ Уникальный токен для автора выдан успешно! \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:29 \ publisher.py -> line 25 \ Подключаемся к брокеру... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:31 \ publisher.py -> line 28 \ Автор пишет-пишет... публикует... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:31 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:31 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:36 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:36 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:41 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:41 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:46 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:46 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 10:57:51 \ subscriber.py -> line 43 \ Логи записываются... \ HOST: mini-sxannyy
+WARNING \ 2024-05-27 at 10:57:51 \ subscriber.py -> line 45 \ Кажется, автору стало скучно... \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 11:00:13 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 11:00:21 \ user_service.py -> line 9 \ Сервер был успешно запущен \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 11:00:25 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 11:01:37 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
+INFO \ 2024-05-27 at 11:01:39 \ user_service.py -> line 17 \ Метод get_token находится в действии  \ HOST: mini-sxannyy
