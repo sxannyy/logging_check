@@ -2,7 +2,7 @@ import datetime
 import time
 import paho.mqtt.client as mqtt_client
 import requests
-from loguru import logger
+from loguru_logger import logger
 
 INACTIVITY_TIMEOUT_IN_SEC = 10
 
@@ -15,7 +15,7 @@ def on_message(client, userdata, message):
     logger.debug("Сообщение было получено")
     last_message_time = datetime.datetime.now()
     data = str(message.payload.decode("utf-8"))
-    print("received message =", data)
+    logger.info(f"received message: {data}")
 
 try:
     unique_token = requests.get('http://127.0.0.1:8000/get_token').json()[0]
@@ -33,7 +33,7 @@ logger.info("Подключение к брокеру...")
 client.connect(broker)
 client.loop_start()
 logger.info("Подписка была оформлена")
-client.subscribe("lab/leds/state")
+client.subscribe("lab/leds/hello/state")
 
 while True:
     try:

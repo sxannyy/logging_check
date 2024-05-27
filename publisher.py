@@ -1,5 +1,5 @@
 import time
-from loguru import logger
+from loguru_logger import logger
 import paho.mqtt.client as mqtt_client
 import random
 import requests
@@ -22,11 +22,11 @@ client.connect(broker)
 client.loop_start()
 logger.info("Автор пишет-пишет... публикует...")
 
-for i in range(10):
+for i in range(4):
     state = "on" if random.randint(0, 1) == 0 else "off"
     state = state + " ну... ну... блин..."
     print(f"State is {state}")
-    client.publish("lab/leds/state", state)
+    client.publish("lab/leds/hello/state", state)
     time.sleep(2)
 
 logger.warning("У автора устали писать руки... Он устал, он мухожук...")
